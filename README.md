@@ -1,4 +1,4 @@
-asdasdasdas# hello-world
+hello-world
 Just another repository on github
 
 Hi humans, 
